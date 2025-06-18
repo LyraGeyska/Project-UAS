@@ -5,16 +5,16 @@ Aplikasi web ini dibuat untuk membandingkan harga Elektronik. Tujuannya adalah m
 ## 🚀 Cara Menjalankan Project
 
 Pastikan sudah menginstall :
-a. Vue 3 dengan Composition API + TypeScript :
+- Vue 3 dengan Composition API + TypeScript :
 **npm install vue
 npm install --save-dev typescript**
-b. Vue Router :
+- Vue Router :
 **npm install vue-router**
-c. Axios (Untuk HTTP request ke backend API) :
+- Axios (Untuk HTTP request ke backend API) :
 **npm install axios**
-d. SweetAlert2 : 
+- SweetAlert2 : 
 **npm install sweetalert2**
-e. Tailwind CSS :
+- Tailwind CSS :
 **npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p**
 
