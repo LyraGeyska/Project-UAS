@@ -20,8 +20,8 @@ Pastikan sudah menginstall :
 
 Jalankan code ini di terminal Vscode :
 1. **Jalankan Servernya (app.py)**
-	*python app.py*
+- *python app.py*
 
 2. **Jalankan Websitenya**
-	*npm un dev*
+- *npm un dev*
 	📌 Menjalankan tampilan utama aplikasi di localhost
